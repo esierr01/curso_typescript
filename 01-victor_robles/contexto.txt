@@ -17,6 +17,7 @@ Para instalarlo, se debe tener instalado nodejs.
     (para crear nuestro fichero de configuración de typescript)
 
     Aqui configuramos "target": "ES5" -> especifica que el código TypeScript debe ser transpilado a una versión de JavaScript compatible con ECMAScript 5 (ES5), ya que es bastante compatible con cualquier navegador
+    Tambien "strict": true -> lo llevamos a false
 
 3- creamos el archivo main.ts, lo editamos, luego para transpilarlo, ejecutamos en consola:
 
