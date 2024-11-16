@@ -1,0 +1,10 @@
+var texto = "Hola Mundo";
+var numero = 123;
+var falso = false;
+var cualquiera = "Cualquier valor";
+var nombre = "Emmanuel Sierra";
+falso = true;
+cualquiera = 1228;
+var personas = ["Emmanuel", "Ana", "Diana", "Coco"];
+console.log(texto, numero, falso, cualquiera, nombre);
+console.log(personas);
