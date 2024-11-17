@@ -5,6 +5,7 @@ Prácticas de cursos tomados de Youtube de TypeScript,comenzando por lo más bá
 Se han utilizado videos de cursos / tutoriales de los canales.
 <ul>
     <li>Victor Robles</li>
+    <li>Fazt</li>
 </ul>
 
 
@@ -21,6 +22,7 @@ Para clonar el repositorio:
 <hr/>
 
 <h4>Desarrollo: En Proceso</h4>
+<h5>Noviembre 2024<h5>
 
 
 
